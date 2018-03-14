@@ -1,0 +1,63 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   about.html
+#	new file:   codes.html
+#	new file:   contact.html
+#	new file:   css/bootstrap.css
+#	new file:   css/jquery.countdown.css
+#	new file:   css/style.css
+#	new file:   css/swipebox.css
+#	new file:   fonts/FontAwesome.otf
+#	new file:   fonts/fontawesome-webfont.eot
+#	new file:   fonts/fontawesome-webfont.svg
+#	new file:   fonts/fontawesome-webfont.ttf
+#	new file:   fonts/fontawesome-webfont.woff
+#	new file:   fonts/glyphicons-halflings-regular.woff
+#	new file:   fonts/glyphicons-halflings-regular.woff2
+#	new file:   images/a.jpg
+#	new file:   images/ba1.jpg
+#	new file:   images/ba2.jpg
+#	new file:   images/ba3.jpg
+#	new file:   images/g1.jpg
+#	new file:   images/g2.jpg
+#	new file:   images/g3.jpg
+#	new file:   images/g4.jpg
+#	new file:   images/g5.jpg
+#	new file:   images/g6.jpg
+#	new file:   images/g7.jpg
+#	new file:   images/g8.jpg
+#	new file:   images/icons.svg
+#	new file:   images/img-sprite.png
+#	new file:   images/list-arrow.png
+#	new file:   images/p1.jpg
+#	new file:   images/p2.jpg
+#	new file:   images/t.jpg
+#	new file:   images/t1.jpg
+#	new file:   images/t2.jpg
+#	new file:   images/t3.jpg
+#	new file:   images/to-top2.png
+#	new file:   images/w1.jpg
+#	new file:   images/w2.jpg
+#	new file:   images/w4.png
+#	new file:   images/w5.png
+#	new file:   images/w6.png
+#	new file:   images/w7.png
+#	new file:   index.html
+#	new file:   js/bootstrap.min.js
+#	new file:   js/easing.js
+#	new file:   js/jquery.countdown.js
+#	new file:   js/jquery.min.js
+#	new file:   js/jquery.swipebox.min.js
+#	new file:   js/move-top.js
+#	new file:   js/numscroller-1.0.js
+#	new file:   js/responsiveslides.min.js
+#	new file:   js/script.js
+#	new file:   photos.html
+#
